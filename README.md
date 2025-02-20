@@ -4,6 +4,8 @@ My name is George. Here you can find my projects.
 
 <img src="https://www.codewars.com/users/gogi_avsa/badges/large" alt="Codewars Badge">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=george-avsa&show_icons=true&theme=transparent)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/georgiy-avsadzhanishvili-854235282/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
